@@ -8,12 +8,12 @@ Jeremy Wong, Surabhi Simha
 
 ## 1. Summary
 
-In this document we establish 
+In this document we establish in the following chapter numbers:
 
-- 2. Document PISA performance 
+- 2. Documentation of select country PISA performance 
 - 3. Interpret PISA's 500-pt scoring
 - 4. Consider a general linear model of education (inspired by Lant Pritchett's 2013 Book)
-- Consider the various terms and their impacts on the countries considered here
+- 5-11. Consider the various terms and their impacts on the countries considered here
 
 Our plans for this document include 
 
@@ -25,7 +25,7 @@ Among the important summary points are
 - many countries benefit from selection of well-performing states, not representative of the country at large
 - marginalized communities are largely exempt from national participation
 - tests that (profoundly) gate post-secondary enrollment tend to cause much better educational performance
-- spending does not well-predict performance; thus even considering testing performance, other factors remain critical
+- spending does not well-predict performance; thus even considering testing performance, other factors (likely) remain critical
 
 ---
 
